@@ -1,0 +1,114 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "title": "Air Max 270",
+            "description": "Breathable mesh upper with Air Max cushioning for all-day comfort.",
+            "price": 150,
+            "shoes": {
+                "brand": "Nike",
+                "size": 10,
+                "color": "Black/White"
+            }
+        },
+        {
+            "id": 2,
+            "title": "UltraBoost 21",
+            "description": "Responsive running shoe with Boost cushioning and knit upper.",
+            "price": 180,
+            "shoes": {
+                "brand": "Adidas",
+                "size": 9,
+                "color": "Core Black"
+            }
+        },
+        {
+            "id": 3,
+            "title": "Classic Leather",
+            "description": "Timeless Reebok design with soft leather upper and cushioned sole.",
+            "price": 90,
+            "shoes": {
+                "brand": "Reebok",
+                "size": 8.5,
+                "color": "White"
+            }
+        },
+        {
+            "id": 4,
+            "title": "Gel-Kayano 28",
+            "description": "Stability running shoe with Gel cushioning for added comfort.",
+            "price": 160,
+            "shoes": {
+                "brand": "ASICS",
+                "size": 11,
+                "color": "Blue/Orange"
+            }
+        },
+        {
+            "id": 5,
+            "title": "Chuck Taylor All Star",
+            "description": "Classic canvas high-top with iconic rubber toe cap.",
+            "price": 60,
+            "shoes": {
+                "brand": "Converse",
+                "size": 9.5,
+                "color": "Black"
+            }
+        },
+        {
+            "id": 6,
+            "title": "Zoom Freak 3",
+            "description": "Designed for explosive footwork, ideal for basketball players.",
+            "price": 120,
+            "shoes": {
+                "brand": "Nike",
+                "size": 12,
+                "color": "Green/Purple"
+            }
+        },
+        {
+            "id": 7,
+            "title": "Fresh Foam 1080v11",
+            "description": "High cushioning running shoe with breathable knit upper.",
+            "price": 150,
+            "shoes": {
+                "brand": "New Balance",
+                "size": 10.5,
+                "color": "Grey"
+            }
+        },
+        {
+            "id": 8,
+            "title": "Speedcross 5",
+            "description": "Trail running shoe with aggressive grip and excellent cushioning.",
+            "price": 130,
+            "shoes": {
+                "brand": "Salomon",
+                "size": 11,
+                "color": "Red/Black"
+            }
+        },
+        {
+            "id": 9,
+            "title": "Metcon 7",
+            "description": "Training shoe with stability for weightlifting and versatility for cardio.",
+            "price": 140,
+            "shoes": {
+                "brand": "Nike",
+                "size": 10,
+                "color": "White/Black"
+            }
+        },
+        {
+            "id": 10,
+            "title": "Gel-Nimbus 23",
+            "description": "Neutral running shoe with advanced cushioning for long-distance comfort.",
+            "price": 160,
+            "shoes": {
+                "brand": "ASICS",
+                "size": 9.5,
+                "color": "Grey/Blue"
+            }
+        }
+    ]
+}
